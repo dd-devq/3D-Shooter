@@ -1,0 +1,7 @@
+id,name,hp,damage,speed,rof,namePrefab
+1,ZombieNormal,10,1,2,1.5,ZombieNormal
+2,ZombieWomen,7,2,2,1,ZombieWomen
+3,ZombieParasite,5,1,1,2,ZombieParasite
+4,ZombieRunner,7,1,4,1,ZombieRunner
+5,ZombieTanker,15,3,1.5,2,ZombieTanker
+6,ZombieBoss,20,3,2,1.5,ZombieBoss

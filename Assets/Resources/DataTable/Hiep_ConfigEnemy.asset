@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aeabb1953aaac4bcb91f9cd32b86f8c8, type: 3}
+  m_Name: Hiep_ConfigEnemy
+  m_EditorClassIdentifier: 
+  records:
+  - id: 1
+    name: ZombieNormal
+    hp: 10
+    damage: 1
+    speed: 2
+    rof: 1.5
+    namePrefab: ZombieNormal
+  - id: 2
+    name: ZombieWomen
+    hp: 7
+    damage: 2
+    speed: 2
+    rof: 1
+    namePrefab: ZombieWomen
+  - id: 3
+    name: ZombieParasite
+    hp: 5
+    damage: 1
+    speed: 1
+    rof: 2
+    namePrefab: ZombieParasite
+  - id: 4
+    name: ZombieRunner
+    hp: 7
+    damage: 1
+    speed: 4
+    rof: 1
+    namePrefab: ZombieRunner
+  - id: 5
+    name: ZombieTanker
+    hp: 15
+    damage: 3
+    speed: 1.5
+    rof: 2
+    namePrefab: ZombieTanker
+  - id: 6
+    name: ZombieBoss
+    hp: 20
+    damage: 3
+    speed: 2
+    rof: 1.5
+    namePrefab: ZombieBoss

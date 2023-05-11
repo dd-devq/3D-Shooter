@@ -1,0 +1,4 @@
+id,name,hp,skinID,weaponId,namePrefab
+1,AutoCharacter,15,0,0,AutoCharacter
+2,MeleeCharacter,20,0,0,MeleeCharacter
+3,ShotgunCharacter,17,0,0,ShotgunCharacter

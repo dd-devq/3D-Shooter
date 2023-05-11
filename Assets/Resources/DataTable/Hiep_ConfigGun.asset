@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c64d9a7aed4264bc8908bb0a14aa181f, type: 3}
+  m_Name: Hiep_ConfigGun
+  m_EditorClassIdentifier: 
+  records:
+  - id: 1
+    name: auto
+    rof: 0.1
+    damage: 2
+    clipSize: 30
+    amountAmo: 90
+    timeReload: 2
+  - id: 2
+    name: shotgun
+    rof: 1
+    damage: 5
+    clipSize: 6
+    amountAmo: 12
+    timeReload: 1
